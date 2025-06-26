@@ -34,7 +34,7 @@
 
 Посмотрите наше демонстрационное видео, чтобы увидеть RouteMood в действии!
 
-[Смотреть демо-видео на Google Drive](https://drive.google.com/file/d/1_jxvSYcs2kfD4a__Ad7D6kxh-vKD-Jcc/view?resourcekey)
+[Смотреть демо-видео на YouTube](https://www.youtube.com/shorts/jmlgAiI6CSA)
 
 
 ---
